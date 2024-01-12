@@ -6,7 +6,7 @@ M5_LoRaWAN LoRaWAN;
 
 String response;
 
-unsigned int transmissionCounter = 0;  // Αυξονόμος αριθμός
+unsigned int transmissionCounter = 0;  
 unsigned long energyMeterReading = 100;  // Αρχική τιμή του μετρητή ενέργειας
 
 void setup() {
